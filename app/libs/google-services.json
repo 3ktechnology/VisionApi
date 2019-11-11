@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433114188598",
+    "firebase_url": "https://visionapi-12bf0.firebaseio.com",
+    "project_id": "visionapi-12bf0",
+    "storage_bucket": "visionapi-12bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433114188598:android:f78108b34e35f06886c197",
+        "android_client_info": {
+          "package_name": "com.example.visionapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433114188598-4j8b74uiojs0b5tgr1i1b4g6g64pthje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visionapi",
+            "certificate_hash": "62f46ab596d4ef84731baab7aee20bcbed524083"
+          }
+        },
+        {
+          "client_id": "433114188598-0mb62k5r6bihnrafole68qhc3tko4iij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcvtERM_magDXgbTsDufg2W520QhFJ-DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433114188598-0mb62k5r6bihnrafole68qhc3tko4iij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
